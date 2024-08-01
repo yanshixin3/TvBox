@@ -380,7 +380,7 @@
 {"key":"卧龙资源","name":"卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"49资源","name":"49资源","type":1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list ","searchable":1,"quickSearch":1},
 {"key":"非凡资源","name":"非凡资源","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
-{"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"闪电资源","name":"闪电资源","type":1,"api":"https://xsdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"鱼乐资源","name":"鱼乐资源","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"虎牙资源","name":"虎牙资源","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json","searchable":1,"quickSearch":1},
 {"key":"快看资源","name":"快看资源","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/","searchable":1,"quickSearch":1},
